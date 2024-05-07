@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+   
+}
+
+
+body
+{
+    background:linear-gradient(rgb(119, 0, 255),rgb(255, 0, 212))
+}
+#logo{
+    color: #000000;
+    border-bottom: 2px solid rgb(1, 182, 1);
+}
+
+.hero{
+    width: 95%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 40px;
+    background-color: rgb(247, 247, 247);
+    
+    
+}
+
+
+.mein{
+    /* border: 1px solid red; */
+    /* display: flex;
+    justify-content: space-between; */
+    height: auto;
+    overflow: visible;
+    position: relative;
+    padding-top: 55px;
+    justify-content: e;
+    padding-bottom: 20px;
+
+ 
+   
+}
+/* .mein2 img{
+    width: 20rem;
+    position: absolute;
+    left: 33rem;
+    top: 9rem;
+     */
+/* } */
+
+
+
+.pic img{
+    width: 300px;
+    border-radius: 50%;
+    padding: 7px;
+    border: 1px solid rgb(0, 255, 0);
+    cursor: pointer;
+
+}
+.pic img:hover{
+    scale: 1.1;
+    transition: 1.5s;
+}
+/* .pic{
+    margin-left: 10rem;
+    margin-top: 5rem;
+} */
+.about-me h1{
+    height: 3rem;
+    padding: 10px;
+}
+
+
+.about-me{
+    width: 50%;
+    margin-top: 6rem;
+    margin-right: 4rem;
+}
+span{
+    color: rgb(3, 194, 12);
+}
+
+.about-me a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 7px 10px;
+    border: 0.1px solid rgba(0, 0, 0, 0.158);
+    border-radius: 10px;
+    color: black;
+    margin-bottom: 20px;
+ 
+}
+.about-me a:hover{
+    background-color: rgb(0, 214, 0);
+    color: #fff;
+    transition: 0.6s;
+   
+}
+.about-me p{
+    padding: 10px;
+}
+.nav-item a:hover{
+    /* font-size: 20px; */
+    color: rgb(0, 201, 0);
+}
+.active{
+    color: rgb(0, 201, 0) !important;
+}
+.nav-item a{
+    font-size: 20px;
+}
+.navbar-brand{
+    font-size: 35px !important;
+}
+.m{
+    color: rgb(255, 255, 255);
+    padding: 4px 7px ;
+    background-color: rgb(3, 184, 3);
+    border-radius: 50%;
+}
+
+
+.socisal{
+    /* position: absolute;
+    top: 37rem;
+    left: 5rem;
+    width: 20rem; */
+    /* border: 1px solid red; */
+    margin-top: 10px;
+    /* height: 20vh; */
+    padding-top: 20px;
+}
+.socisal h1{
+    font-size: 20px;
+    color: rgb(0, 0, 0) ;
+    font-weight: bold;
+    
+  
+   
+}
+.socisal svg{
+    font-weight: bold;
+    font-size: 55px !important;
+    padding: 4px 4px ;
+    background-color: #000000;
+    border-radius: 10px;
+    color: #fff;
+}
+.socisal #color{
+    color: red;
+    background-color: aliceblue;
+    padding: 3px 3px;
+    margin-left: 10px;
+}
+.socisal #color1{
+    color: white;
+    background-color:blue;
+    margin-left: 10px;
+}
+.socisal #color2{
+    background-color: rgb(0, 179, 0);
+    margin-left: 10px;
+}
+
+.about-me a{
+    margin-left: 10px;
+}
+.about-me a #con{
+    margin-left: 5px;
+}
+
+iframe{
+    margin-left: 6rem;
+    border-radius: 20px;
+}
+.tomy{
+    height: auto;
+    width: 95%;
+    margin: 20px auto;
+    border-radius: 40px;
+    background-color: rgb(247, 247, 247);
+    
+}
+.conten p{
+    padding: 14px;
+    
+}
+.conten{
+    margin-top: 5rem;
+    text-align: center;
+    /* height: 100vh; */
+}
+.border{
+    width: 200px;
+    background-color: green;
+    height: 2px;
+    color: #000000;
+}
+.footer{
+    border-top: 0.1px solid rgba(0, 0, 0, 0.267);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 30px;
+    font-size: 30px;
+    height: 20vh;
+}
