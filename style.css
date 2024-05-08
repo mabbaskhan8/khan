@@ -41,13 +41,6 @@ body
  
    
 }
- .mein2 img{
-    width: 20rem;
-    position: absolute;
-    left: 33rem;
-    top: 9rem;
-     
- } 
 
 
 
@@ -204,5 +197,192 @@ iframe{
     margin-top: 10px;
     padding-top: 30px;
     font-size: 30px;
-    height: 20vh;
+    height: 25vh;
 }
+
+.footer h6{
+    margin-left: 30px;
+}
+
+
+@media (max-width: 2036px){
+    .pic img{
+        width: 400px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+
+    .about-me{
+        width: 50%;
+        margin-top: 6rem;
+        margin-right: 4rem;
+        padding: 20PX;
+        /* border: 1px solid red; */
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 912px){
+.mein{
+    height: auto;
+}
+}
+
+
+
+@media (max-width: 853px){
+    .pic img{
+        width: 450px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+    .about-me{
+        width: 50%;
+        margin-top: 6rem;
+        margin-right: 4rem;
+        padding: 20PX;
+        /* border: 1px solid red; */
+        font-size: 30px;
+    }
+}
+
+
+
+@media (max-width: 430px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+
+}
+
+
+
+@media (max-width: 414px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+
+}
+
+
+
+
+
+
+@media (max-width: 412px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+    .about-me{
+        width: 50%;
+        margin-top: 6rem;
+        margin-right: 4rem;
+        padding: 20PX;
+        /* border: 1px solid red; */
+        font-size: 15px;
+    }
+
+}
+@media (max-width: 393px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+
+}
+
+
+@media (max-width: 360px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+
+   
+}
+
+
+@media (max-width: 353px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+    .about-me{
+        width: 50%;
+        margin-top: 6rem;
+        margin-right: 4rem;
+        padding: 20PX;
+        /* border: 1px solid red; */
+        font-size: 20px;
+        text-justify: auto;
+    }
+
+    #logo{
+        font-size: 26px;
+    }
+
+   
+}
+
+@media (max-width: 344px){
+    .pic img{
+        width: 300px;
+        border-radius: 50%;
+        padding: 7px;
+        border: 1px solid rgb(0, 255, 0);
+        cursor: pointer;
+    
+    }
+    .m{
+        color: rgb(255, 255, 255);
+        padding: 4px 7px ;
+        background-color: rgb(3, 184, 3);
+        border-radius: 50%;
+    }
+    #logo{
+        color: #000000;
+        border-bottom: 2px solid rgb(1, 182, 1);
+        font-size: 27px;
+    }
+    
+   
+}
+
+
+
+
+
+
