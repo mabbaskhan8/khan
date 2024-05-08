@@ -83,6 +83,7 @@ span{
     border-radius: 10px;
     color: black;
     margin-bottom: 20px;
+    padding: 10px 20px;
  
 }
 .about-me a:hover{
@@ -192,8 +193,7 @@ iframe{
     color: #000000;
 }
 .footer{
-    border-top: 0.1px solid rgba(0, 0, 0, 0.267);
-    text-align: center;
+    
     margin-top: 10px;
     padding-top: 30px;
     font-size: 30px;
