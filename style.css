@@ -326,15 +326,6 @@ iframe{
         cursor: pointer;
     
     }
-        .about-me{
-        width: 50%;
-        margin-top: 6rem;
-        margin-right: 4rem;
-        padding: 20PX;
-        /* border: 1px solid red; */
-       /* font-size: 10px;*/
-        text-justify: auto;
-    }
 
    
 }
@@ -349,15 +340,15 @@ iframe{
         cursor: pointer;
     
     }
-    .about-me{
+/*     .about-me{
         width: 50%;
         margin-top: 6rem;
         margin-right: 4rem;
         padding: 20PX;
         /* border: 1px solid red; */
-        font-size: 10px;
-        text-justify: auto;
-    }
+/*         font-size: 10px;
+        text-justify: auto; */
+    } */
 
     #logo{
         font-size: 26px;
